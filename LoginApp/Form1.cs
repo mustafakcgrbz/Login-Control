@@ -27,7 +27,7 @@ namespace LoginApp
             }
             else
             {
-                MessageBox.Show("Hatalı Giriş Yaptınız");
+                MessageBox.Show("Hatalı Giriş Yaptınız. Giriş Bilgilerinizi Kontrol Ederek Tekrar Deneyiniz!!");
             }
         }
     }
